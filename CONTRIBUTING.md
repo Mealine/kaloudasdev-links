@@ -1,4 +1,4 @@
-# Contributing to Professional VS Code Project Ideas
+# Contributing to KaloudasDev Links Website
 
 Thank you for your interest in contributing! The goal of this repository is to be a high-quality, professional resource for developers.
 

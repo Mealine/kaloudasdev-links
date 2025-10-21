@@ -1,6 +1,6 @@
 ## KaloudasDev - Professional Link Hub
 
-A sleek and modern link hub portfolio showcasing development work and social connections with clean, professional design optimized for all devices and browsers, featuring intuitive navigation, interactive elements, fast load times, and responsive layouts.
+A sleek and modern link hub portfolio showcasing development work and social connections with clean, professional design optimized for all devices and browsers, featuring intuitive navigation, interactive elements, fast load times, responsive layouts.
 
 ## Features
 - **Modern Dark Theme** - Professional color scheme with accent highlights

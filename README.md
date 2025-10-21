@@ -31,12 +31,6 @@ open index.html
 - **Google Fonts** - Inter font family for typography
 - **Service Worker** - Advanced caching strategies
 
-## Social Links
-- **Portfolio Website** - Professional work showcase
-- **GitHub Projects** - Code repositories and contributions
-- **Discord Connection** - Direct communication channel
-- **Ko-fi Support** - Project sponsorship options
-
 ## Design Principles
 - Minimalist aesthetic with maximum impact
 - Consistent spacing and typography hierarchy

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /sw.js
+
+Sitemap: https://kaloudasdev.github.io/kaloudasdev-links/sitemap.xml

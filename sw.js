@@ -24,7 +24,8 @@ self.addEventListener('fetch', function(event) {
     if (event.request.url.includes('kaloudasdev.gr') || 
         event.request.url.includes('github.com') ||
         event.request.url.includes('discord.com') ||
-        event.request.url.includes('ko-fi.com')) {
+        event.request.url.includes('ko-fi.com') ||
+        event.request.url.includes('kaloudasdev.github.io')) {
         return fetch(event.request);
     }
     

